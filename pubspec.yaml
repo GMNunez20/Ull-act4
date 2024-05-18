@@ -1,6 +1,5 @@
 name: molina0507
 description: A new Flutter project.
-
 version: 1.0.0+1
 
 environment:
@@ -17,6 +16,8 @@ dev_dependencies:
 
 flutter:
   uses-material-design: true
+  assets:
+    - assets/drawer_header.jpg
   # assets:
   #  - images/a_dot_burr.jpeg
   #  - images/a_dot_ham.jpeg
